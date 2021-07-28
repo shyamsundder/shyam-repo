@@ -1,0 +1,3 @@
+australia 
+london
+switzerland
